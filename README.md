@@ -1,7 +1,6 @@
 Sibita Ateliê: O Site Front-End
 
 Links:
-Site : file:///C:/Users/arthur.dmatos/Documents/sibita-ateli%C3%AA/index.html
 Protótipo de Design (Figma): https://www.figma.com/design/DzcNJxT7CxhxwgmEcIN29p/Ateli%C3%AA?node-id=0-1&t=GT1776HJ5zsXzFDM-1
 Repositório: https://arthurdmmatos.github.io/sibita-atelie-site/
 
