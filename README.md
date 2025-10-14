@@ -1,8 +1,10 @@
 Sibita Ateliê: O Site Front-End
 
 Links:
+Site Publicado (Rodando!): https://arthurdmmatos.github.io/sibita-atelie-site/ 
 Protótipo de Design (Figma): https://www.figma.com/design/DzcNJxT7CxhxwgmEcIN29p/Ateli%C3%AA?node-id=0-1&t=GT1776HJ5zsXzFDM-1
-Repositório: https://arthurdmmatos.github.io/sibita-atelie-site/
+Repositório: https://github.com/arthurdmmatos/sibita-atelie-site 
+(Observação: O link do Repositório e do Site Publicado são iguais, conforme configurado no GitHub Pages.)
 
 Sobre o Projeto
 
@@ -21,8 +23,23 @@ CSS3: Estilização, variáveis (root) e Media Queries.
 Git & GitHub: Versão do código e publicação do site.
 Figma: Protótipo visual.
 
-Tudo foi feito hoje dia 14/10/2025. Cheguei na católica 11:40 da manhã e estou fazendo o readme 20:30 (Tive pausa para almoçar)
-Tive muitos problemas principalmente no figma e na hora de configurar o github ja que não estava aparecendo as imagens e nem o css, ficando somente o html puro, mas depois de tempos ajustando tudo, está tudo feito
+Estrutura de Pastas
+
+A estrutura é simples para um projeto estático:
+- ./ (Raiz): index.html e arquivos essenciais
+- ./css/: style.css
+- ./img/: Arquivos de imagens do projeto (logo, fotos dos produtos)
+
+Jornada do Código e Datas
+
+Tudo foi feito hoje, dia 14/10/2025. Cheguei na católica 11:40 da manhã e estou fazendo o README às 20:30 (Tive pausa para almoçar).
+
+Tive muitos problemas:
+1.  Ajustes no Figma para alinhamento final do design.
+2.  Configuração inicial do GitHub.
+3.  Um problema do github não carregar as imagens e o CSS (ficando só o HTML puro).
+
+Depois de tempos ajustando o HTML e CSS, está tudo resolvido e o site está feito!
 
 Desenvolvedor
 
