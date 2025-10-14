@@ -1,4 +1,4 @@
-Sibita Ateliê: O Site Front-End
+Sibita Ateliê
 
 Links:
 Site Publicado (Rodando!): https://arthurdmmatos.github.io/sibita-atelie-site/ 
